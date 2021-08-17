@@ -6,3 +6,4 @@ Logistic Regression - Bài toán cơ bản trong Machine Learning
 2. Đặt vấn đề
   Bài viết này tôi sẽ xây dựng một mô hình máy học logistic regression để huấn luyện mô hình tôi sử dụng 1 tập dữ liệu về số giờ học và giờ nghỉ của sinh viên, dựa vào đó để đánh giá kết quả học tập của sinh viên là pass hay false.
 3. 
+![image](https://user-images.githubusercontent.com/87468563/129730800-6a9558b2-a1c4-4132-be0c-a5d3ff675705.png)
