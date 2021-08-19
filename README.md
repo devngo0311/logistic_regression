@@ -14,3 +14,10 @@ Logistic Regression - Bài toán cơ bản trong Machine Learning
   ![image](https://user-images.githubusercontent.com/87468563/130008460-ee3a5f14-4b7e-4394-8158-31762ceae858.png)
   
   Nó có thể đúng nhưng còn có những ngoại lệ thì sao, chúng ta cần một mô hình chính xác hơn để dự đoán thay vì 1 đường thẳng như thế
+3. Hàm sigmoid
+  Bây giờ chúng ta sẽ tìm xác suất của 1 điểm dữ liệu mà nó có thể được chấp nhận, tất nhiên xác suất sẽ nằm trong khoảng từ [0;1]
+  Và có 1 hàm số thỏa mãng là hàm sigmoid
+  
+  ![image](https://user-images.githubusercontent.com/87468563/130008913-75500c96-2b8a-4366-93fb-114542130f57.png)
+
+  
