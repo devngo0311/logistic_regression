@@ -21,4 +21,12 @@ Logistic Regression - Bài toán cơ bản trong Machine Learning
   
   ![image](https://user-images.githubusercontent.com/87468563/130008913-75500c96-2b8a-4366-93fb-114542130f57.png)
 
+  4. Các quá trình thực hiện
+    4.1 Xây dựng model
+    4.2 Xây dựng hàm mất mát (loss function)
+    4.3 Tìm các hệ số weight bằng việc tối ưu hàm mất mát
+
+   ![image](https://user-images.githubusercontent.com/87468563/130009481-5b7366c8-de3f-4e81-9122-2a56916020f7.png)
+   
+    4.4 Sử dụng các tham số weight để kiểm tra độ tin cậy của model
   
